@@ -2,8 +2,7 @@ const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
-// const apiRoutes = require("./routes/api.js");
-const apiRoutes = require("./dist/api-minified.js");
+const apiRoutes = require("./routes/api.js");
 
 const PORT = process.env.PORT || 3000;
 
