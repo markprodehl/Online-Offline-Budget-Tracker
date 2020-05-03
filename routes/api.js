@@ -1,4 +1,4 @@
-// ***This is the original api.js file that has now been minified and put into the dist folder***
+// ***This is the original app.js file that has now been minified and put into the dist folder***
 
 // const router = require("express").Router();
 // const Transaction = require("../models/transaction.js");
