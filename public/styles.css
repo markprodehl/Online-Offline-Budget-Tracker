@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  
 }
 
 button, input {
@@ -49,3 +50,5 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
+

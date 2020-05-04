@@ -15,12 +15,10 @@ const FILES_TO_CACHE = [
 ];
 //the version (v1) here can be changed whenever the list of files to be cached is updated.
 //this is fo the static assets
-const CACHE_NAME = "static-cache-v2";
+const CACHE_NAME = "static-cache-v3";
 //this is for the things that change often, like AJAX requests
-const DATA_CACHE_NAME = "data-cache-v1";
+const DATA_CACHE_NAME = "data-cache-v2";
 
-
-//self is a reference to the service worker
 //INSTALL the code below will add our files to the cache.
 self.addEventListener("install", (evt) => {
   //wait until the service worker us regstered and any previous service workers have gone idle
@@ -35,7 +33,7 @@ self.addEventListener("install", (evt) => {
   self.skipWaiting();
 });
 
-//ACTIVATE - when the service worker activates
+//ACTIVATE - 
 self.addEventListener("activate", (evt) => {
   //dont let the service worker go idle until the promise passed to waituntil resolves
   // wait until all outdated caches have been deleted
