@@ -10,8 +10,8 @@ const FILES_TO_CACHE = [
   "/favicon.ico",
   "/assets/images/icons/icon-192x192.png",
   "/assets/images/icons/icon-512x512.png",
-//   "/https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-//   "/https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
+  // "/https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+  // "/https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
 ];
 //the version (v1) here can be changed whenever the list of files to be cached is updated.
 //this is fo the static assets

@@ -1,6 +1,8 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: black;
+  color: rgb(243, 247, 10);
   
 }
 
@@ -20,7 +22,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: grey;
 }
 
 .error {
@@ -49,6 +51,10 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+#myChart {
+  color: white;
 }
 
 

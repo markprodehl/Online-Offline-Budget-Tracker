@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const compression = require("compression");
 // const apiRoutes = require("./routes/api.js");
 // added this require to use the new minified api file in dist folder
-const apiRoutes = require("./dist/api-minified.js");
+const apiRoutes = require("./routes/api-minified.js");
 
 const PORT = process.env.PORT || 3000;
 
