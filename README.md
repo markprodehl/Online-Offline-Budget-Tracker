@@ -48,7 +48,7 @@
  GitHub Username: markprodehl  
 
  ## Deployed Link
-(https://offlinebudget-tracker.herokuapp.com/)
+(https://offline-budget-calculator.herokuapp.com/)
 
 
 ## Screenshots
