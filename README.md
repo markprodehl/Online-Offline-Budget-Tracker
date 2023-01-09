@@ -20,12 +20,16 @@
  ### 6. Contact
             
  # Installation
+ 
+ To run locally, clone this repo and in the command line run `npm i`
+ 
+ Use command `node server.js` to start the application
             
- Simply click the + sign in the browser window to install the progresisve web app.
+ Click the + sign in the browser window to install the progresisve web app.
             
  # Usage
             
- The budget tracker is an easy use application that helps users track of their spending. What sets it apart is that it can function without an internet connection. This is achieved by caching transactions locally. The stored transactions automatically upload as soon as an internet connection becomes available. 
+The budget tracker is an easy use application that helps users track of their spending. What sets it apart is that it can function without an internet connection. This is achieved by caching transactions locally. The stored transactions automatically upload as soon as an internet connection becomes available. 
             
  # License
             
