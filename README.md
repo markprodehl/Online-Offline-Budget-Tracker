@@ -3,7 +3,7 @@
             
  # Description:
             
- The Online-Offline-Budget-Tracker application is designed to optimize user experience, especially on older phones with slower internet connections. It is a progressive web application that uses Service Worker and Cache API’s to cache assets and API responses. This means that it can function without an internet connection. 
+ The Online-Offline-Budget-Tracker app optimizes user experience on slower slower internet connections. It is a progressive web application that uses Service Worker and Cache API’s to cache assets and API responses. This means that it can function without an internet connection. 
             
  # Table Of Contents
             
@@ -25,7 +25,7 @@
             
  # Usage
             
- The budget tracker is an easy use application that helps users keep track of their spending. The biggest benefit is that it works without an internet connection. It does this by caching transactions locally. The stored transactions automatically upload as soon as an internet connection becomes available. 
+ The budget tracker is an easy use application that helps users track of their spending. What sets it apart is that it can function without an internet connection. This is achieved by caching transactions locally. The stored transactions automatically upload as soon as an internet connection becomes available. 
             
  # License
             
